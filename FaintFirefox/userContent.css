@@ -1,0 +1,11 @@
+/*   __ _  ____ ___ 
+/*  / _` ||_  // __| GITHUB:https://github.com/gabrielzschmitz               
+/* | (_| | / / \__ \ INSTAGRAM:https://www.instagram.com/gabrielz.schmitz/
+/*  \__, |/___||___/ DOTFILES:https://github.com/gabrielzschmitz/.dotfiles/
+/*  |___/    
+/*
+*/
+/*================== NEW TAB BG COLOR ==================*/
+@-moz-document url("about:newtab"), url("about:home"), url("about:blank") {
+ body { background-color: #232731 !important;}
+}

@@ -1,0 +1,11 @@
+#   __ _  ____ ___ 
+#  / _` ||_  // __| GITHUB:https://github.com/gabrielzschmitz               
+# | (_| | / / \__ \ INSTAGRAM:https://www.instagram.com/gabrielz.schmitz/
+#  \__, |/___||___/ DOTFILES:https://github.com/gabrielzschmitz/.dotfiles/
+#  |___/    
+#
+Put "about:config" in the address bar, set "toolkit.legacyUserProfileCustomizations.stylesheets" true
+Open the profile folder. By putting "about:support" in the address bar, click "Open Folder" next to "Profile Folder"
+Copy "userChrome.css" and "userContent.css" to "chrome" folder (create if not exist)
+Put Firefox in Default Theme, Compact Density and disables Menu Bar and Bookmarks Toolbar
+Restart Firefox
